@@ -14,6 +14,8 @@ I'm eager to continue expanding my knowledge and skills in the ever-evolving wor
 <h3 align="center">a passionate mobile developer and tech enthusiast</h3>
 
 - 🌱 I’m currently learning **Python, Blender**
+- 🌷 I often experiment with new programming languages, frameworks, and libraries. You'll find code samples and small projects that showcase my explorations and experiments. 🌷
+- I'm eager to continue expanding my knowledge and skills in the ever-evolving world of technology.📝
 
 - 📫 How to reach me **khatiwadashreya1@gmail.com**
 
@@ -25,5 +27,5 @@ I'm eager to continue expanding my knowledge and skills in the ever-evolving wor
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyakhatiwada&" alt="shreyakhatiwada" /></p>
+
 
