@@ -13,7 +13,7 @@ I'm eager to continue expanding my knowledge and skills in the ever-evolving wor
 <h1 align="center">Hi 👋, I'm Shreya Khatiwada</h1>
 <h3 align="center">a passionate mobile developer and tech enthusiast</h3>
 
-- 🌱 I’m currently learning **Python, Blender**
+- 🌱 I’m currently learning **Flutter**
 - 🌷 I often experiment with new programming languages, frameworks, and libraries. You'll find code samples and small projects that showcase my explorations and experiments. 🌷
 - I'm eager to continue expanding my knowledge and skills in the ever-evolving world of technology.📝
 
